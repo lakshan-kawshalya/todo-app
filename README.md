@@ -29,6 +29,25 @@ A full-stack Todo Application built with **Spring Boot** (Backend API) and **Vit
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](./screenshots/login-page.png)
+
+### 📝 Register Page
+![Register Page](./screenshots/register-page.png)
+
+### 📋 Todos List Page
+![Todos Page](./screenshots/todos-page.png)
+
+### ➕ Add New Todo Page (Admin)
+![Add New Todo](./screenshots/add-new-todo-page.png)
+
+### ✏️ Update Todo Page (Admin)
+![Update Todo](./screenshots/update-todo-page.png)
+
+---
+
 ## 📁 Project Structure
 ```
 /todo-app/
