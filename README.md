@@ -79,7 +79,7 @@ cd frontend
 npm install
 npm run dev
 ```
-- Frontend runs on: `http://localhost:5173`
+- Frontend runs on: `http://localhost:3000`
 
 ---
 
@@ -108,7 +108,7 @@ npm run dev
 
 ## 📚 Author
 **Lakshan Kawshalya**  
-[LinkedIn](https://www.linkedin.com/in/lakshan-kawshalya) | [YouTube](https://www.youtube.com/@TechVibesSL) | lakshankauvshalya@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lakshan-kawshalya) | lakshankauvshalya@gmail.com
 
 ---
 
